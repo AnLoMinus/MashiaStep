@@ -16,6 +16,7 @@
 ## 🚀 התחלה מהירה
 
 1. שכפל את הפרויקט:
+
 ```bash
 git clone https://github.com/AnLoMinus/MashiaStep.git
 cd MashiaStep
@@ -85,4 +86,3 @@ MashiaStep/
 ---
 
 **"כי מלאה הארץ דעה את ה׳ כמים לים מכסים" (ישעיהו י"א, ט׳)**
-
